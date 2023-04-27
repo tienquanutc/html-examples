@@ -196,4 +196,13 @@ html {
     margin-top: 15px;
 }
 
+.button.is-reen-button {
+    color: white;
+    background-color: #00BC9C;
+}
+
+.showcase.is-reen-button {
+    background-color: #00BC9C;
+}
+
 /*endregion Other*/
