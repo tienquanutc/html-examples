@@ -1,0 +1,193 @@
+html {
+    line-height: 1.5;
+}
+
+/*region Topbar*/
+.topbar {
+    background: #000000;
+    padding: 5px 0;
+}
+
+.topbar .level-right a{
+    color: #CCCCCC;
+}
+/*endregion Topbar*/
+
+/*region Showcase*/
+.showcase {
+    background: url("./images/showcase.png") no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.showcase .hero-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showcase .subtitle {
+    line-height: 1.5;
+}
+
+.showcase .button {
+    background-color: #00BC9C;
+}
+
+.showcase .button:hover {
+    background-color: #00BC9C;
+}
+
+/*end region Showcase*/
+
+/*region Our Services*/
+.our-services {
+    margin-top: 100px;
+}
+
+.our-services .content {
+    padding: 0 20%;
+}
+
+.our-services .services {
+    margin-top: 40px;
+}
+
+.our-services .services .title {
+    color: #00BC9C;
+    white-space: nowrap;
+    padding-bottom: 0.75rem;
+}
+
+.our-services .services .subtitle {
+    line-height: 1.5;
+}
+
+/*endregion Our Services*/
+
+
+/*region Feature*/
+.feature {
+    margin-top: 100px;
+}
+
+.feature .feature-content {
+    background-color: #506A85;
+    padding: 100px;
+}
+
+.feature .feature-content .subtitle {
+    line-height: 1.5;
+}
+
+.feature .feature-image {
+    padding: 0;
+}
+
+.feature .feature-image figure {
+    height: 100%;
+}
+
+.feature .feature-image figure img {
+    height: 100%;
+}
+
+/*endregion Feature*/
+
+/*region Specs*/
+.specs {
+    margin-top: 100px;
+}
+
+.specs .specs-header {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.specs .specs-content {
+    margin: 40px auto 0;
+}
+
+.specs .media .media-content {
+    margin-left: 30px;
+}
+
+.specs .media .icon {
+    font-size: 60px;
+    height: 60px;
+}
+
+.specs .media-content .title {
+    color: #00BC9C;
+}
+
+.specs .media-content .subtitle {
+    line-height: 1.5;
+    padding-top: 10px;
+}
+
+/*endregion Specs*/
+
+/*region Gallery*/
+.gallery {
+    background: url("images/gallery-bg.jpg") no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.gallery .gallery-header {
+    margin-bottom: 40px;
+}
+
+/*endregion Gallery*/
+
+/*region Footer*/
+.footer {
+    background-color: #283645;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/*endregion Footer*/
+
+/*region Other*/
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.pb10 {
+    padding-bottom: 10px;
+}
+
+.has-text-reen {
+    color: #00BC9C;
+}
+
+.reen-divider {
+    background-color: #00BC9C;
+    border: 0;
+    height: 3px;
+    border-radius: 4px;
+    max-width: 175px;
+    margin: .5rem auto;
+}
+
+.reen-divider.left {
+    margin-left: 0;
+}
+
+.title + .reen-divider {
+    margin-top: -10px;
+}
+
+.reen-divider + .subtitle {
+    margin-top: 15px;
+}
+
+.reen-divider + p {
+    margin-top: 15px;
+}
+
+/*endregion Other*/
