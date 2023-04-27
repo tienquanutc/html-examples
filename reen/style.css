@@ -85,7 +85,14 @@ html {
 
 .feature .feature-content {
     background-color: #506A85;
-    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-content .feature-content-left {
+    max-width: 550px;
+    padding: 40px;
 }
 
 .feature .feature-content .subtitle {
