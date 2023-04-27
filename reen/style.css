@@ -8,15 +8,21 @@ html {
     padding: 5px 0;
 }
 
-.topbar .level-right a{
+.topbar .level-right a {
     color: #CCCCCC;
 }
+
 /*endregion Topbar*/
 
 /*region Navbar*/
-.navbar{
+.navbar {
     padding: 10px 0;
 }
+
+.navbar .navbar-start {
+    margin-left: auto;
+}
+
 /*endregion Navbar*/
 
 /*region Showcase*/
