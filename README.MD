@@ -1,12 +1,7 @@
 ## Pages
+>- Reen (https://tienquanutc.github.io/html-examples/reen/)
 
-## Reen
-
-https://tienquanutc.github.io/html-examples/reen/
-
-## ReyShop
-
-https://tienquanutc.github.io/html-examples/rey-shop/
+>- ReyShop (https://tienquanutc.github.io/html-examples/rey-shop/) 
 
 ## How to download as zip
 
