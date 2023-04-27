@@ -13,6 +13,12 @@ html {
 }
 /*endregion Topbar*/
 
+/*region Navbar*/
+.navbar{
+    padding: 10px 0;
+}
+/*endregion Navbar*/
+
 /*region Showcase*/
 .showcase {
     background: url("images/showcase.png") no-repeat;
