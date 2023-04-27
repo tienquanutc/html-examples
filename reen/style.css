@@ -174,7 +174,7 @@ html {
 }
 
 .has-text-reen {
-    color: #00BC9C;
+    color: #00BC9C !important;
 }
 
 .reen-divider {
