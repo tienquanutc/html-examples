@@ -7,7 +7,7 @@ nav {
 }
 
 .showcase {
-    background: url("/images/showcase-bg.png") no-repeat;
+    background: url("images/showcase-bg.png") no-repeat;
     background-size: cover;
 }
 
@@ -65,7 +65,7 @@ nav {
 }
 
 .features .feature-bg {
-    background: url("/images/feature-bg.png") no-repeat;
+    background: url("images/feature-bg.png") no-repeat;
     background-size: cover;
     height: 500px;
 }
@@ -92,7 +92,7 @@ nav {
 }
 
 .collection {
-    background: url("/images/collection-bg-1.png") no-repeat;
+    background: url("images/collection-bg-1.png") no-repeat;
     background-size: cover;
     height: 550px;
     margin-top: 120px;

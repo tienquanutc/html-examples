@@ -15,7 +15,7 @@ html {
 
 /*region Showcase*/
 .showcase {
-    background: url("./images/showcase.png") no-repeat;
+    background: url("images/showcase.png") no-repeat;
     background-size: cover;
     min-height: 500px;
 }
