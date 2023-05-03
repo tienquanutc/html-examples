@@ -1,5 +1,6 @@
 html {
     line-height: 1.5;
+    min-width: 360px;
 }
 
 /*region Topbar*/
